@@ -1,2 +1,2 @@
 # best
-Best practices library information.
+best practices library
