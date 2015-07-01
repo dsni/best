@@ -1,6 +1,6 @@
 ## Youth Employment
 
-# *Youth work less now than they did previously*
+#### *Youth work less now than they did previously*
 
 Young Americans have suffered the most from the recent recession. The unemployment rate for youths aged 16 to 24 remained at 16.2% in 2013, more than double the national unemployment rate (Steinberg, 2013).
 
