@@ -1,4 +1,4 @@
-#### Food access and consumption:
+### Food access and consumption:
 
 [Proximity to supermarkets increases consumption of fruits](http://www.journals.cambridge.org/action/displayAbstract?fromPage=online&aid=573876&fileId=S1368980004001399)
 
