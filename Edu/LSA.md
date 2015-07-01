@@ -17,7 +17,7 @@ Share of workers in S&E occupations, by selected race and ethnicity: Selected ye
 (Percent)			
 
 
-|Year|	Asiana|	Black or African American|	Hispanic|
+|Year|	Asian|	Black or African American|	Hispanic|
 |----|:-------:|:--------------------------:|---------:|
 |1993|	9.1|	3.6|	2.9|
 |1995|	9.6|	3.4|	2.8|
@@ -74,7 +74,7 @@ Student for their career plans in secondary school and it’s important for them
  
 **REFERENCES**
 
-Barker, B. S., & Ansorge, J. (2007). Robotics as means to increase achievement scores in an informal learning environment. Journal of Research on Technology in Education, 39(3), 229-243.
+Barker, B. S., & Ansorge, J. (2007). Robotics as means to increase achievement scores in an informal learning environment. Journal of Research on Technology in Education, 39(3), 229-243. 
 Boaler, J. (2002). The development of disciplinary relationships: Knowledge, practice, and identity in mathematics classrooms. In proceedings of the Annual Meeting of the International Group for the Psychology of Mathematics Education (26th, Norwich, England, July 21-26, 2002).
 Edvantia. (2007). Research review: What research says about preparing English language learners for academic success: Center for Public Education.
 Manning, C. F., & Smith, D. (2014). Boston Promise Initiative Neighborhood Survey Report. Cambridge, MA: Goodman Research Group.
