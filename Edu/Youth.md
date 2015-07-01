@@ -31,7 +31,7 @@ http://www.pbs.org/newshour/making-sense/jobless-rate-for-poor-black-te/
 In many sectors, the number of teens has reduced by 50-90%. These include manufacturing, construction, utilities and transportation (Sum, 2013).
 
 
-#### Youth who work are less likely to be engaged in violent crime*
+#### *Youth who work are less likely to be engaged in violent crime*
 
 Youth who were engaged in a summer employment program were about 43% less likely to be arrested for a violent crime after participating in the program. Most of the effect came after the end of the 8-week program. Almost all of the participants in this summer jobs program were African-American and living in conditions of poverty. Their average age was 16  (Ingmire, 2014).
 
