@@ -18,7 +18,7 @@ Share of workers in S&E occupations, by selected race and ethnicity: Selected ye
 
 
 &nbsp;&nbsp;&nbsp;|Year|	Asiana|	Black or African American|	Hispanic|
-&nbsp;&nbsp;&nbsp;|----|-------|--------------------------|---------|
+&nbsp;&nbsp;&nbsp;|----|:-------:|:--------------------------:|---------:|
 &nbsp;&nbsp;&nbsp;|1993|	9.1|	3.6|	2.9|
 &nbsp;&nbsp;&nbsp;|1995|	9.6|	3.4|	2.8|
 &nbsp;&nbsp;&nbsp;|1997|	10.4|	3.4|	3.1|
