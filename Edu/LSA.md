@@ -31,9 +31,11 @@ Share of workers in S&E occupations, by selected race and ethnicity: Selected ye
 
 &nbsp;&nbsp;&nbsp;f)	Urban schools do not offer adequate/appropriate STEM education
 “A student’s ability to enter and complete a STEM postsecondary degree or credential is often jeopardized because the pupil did not take sufficiently challenging courses in high school or spend enough time practicing STEM skills in hands-on activities" (Thomasian, 2011)
+
 &nbsp;&nbsp;&nbsp;g)	There is need for ELL in schools
 ELLS increased by approximately 70% between 1992 and 2002, now comprising 10.5% of the nation’s K-5 enrollment (National Council of Teachers of English, 2008)
 47% of DVC families speak a language other than English at home (Manning & Smith, 2014)
+
 &nbsp;&nbsp;&nbsp;h)	ELL students need additional support
 ELL students generally receive lower grades and have higher drop-out rates than other students (Edvantia, 2007)
 
