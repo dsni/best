@@ -5,6 +5,7 @@
 **YOD** = Youth Opportunities & Development 
 
 **SED** = Sustainable Economic Developement
+**HCC** = Healthy Community Champion
 
 **FCC** = Fairmount Cultural Corridor
 
@@ -18,6 +19,8 @@
 
 **DRFH** = Dudley Real Food Hub (Dudley Grows)
 
-**
+**Youth Voice Project** = 
+
+**Fair Chance for Family Success** = 
 
 logic models
