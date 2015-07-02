@@ -1,21 +1,23 @@
-**dvc** = dudley village campus
+**DVC** = Dudley Village Campus
 
-**bpi** = boston promise initiative
+**BPI** = Boston Promise Initiative
 
-**yod** = Youth opportunities and Development 
+**YOD** = Youth Opportunities & Development 
 
-**sed** = sustainable economic developement
+**SED** = Sustainable Economic Developement
 
-**fcc** = Fairmount Cultural Corridor
+**FCC** = Fairmount Cultural Corridor
 
 **DNI** = Dudley Neighbors, Inc.
 
 **DNCS** = Dudley Neighborhood Charter School
 
-**RDI** = Resident Developement institute
+**RDI** = Resident Developement Institute
 
-**SDC** = sustainable economic developement Committee
+**SDC** = Sustainable Economic Developement Committee
 
-**DRFH** = Dudley real Food Hub (Dudley Grows)
+**DRFH** = Dudley Real Food Hub (Dudley Grows)
+
+**
 
 logic models
