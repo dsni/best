@@ -11,3 +11,12 @@ J Nicholas Bodor, Donald Rose, Thomas A Farley, Christopher Swalm and Susanne K 
 [A dollar increase in the price of fruit and vegetables leads to a decrease in consumption by 6.3 percentage points](http://www.bridgingthegapresearch.org/_asset/v8yth9/Powell_2006_AHEHSR.pdf)
 
 Lisa Powell, M Christopher Auld, Frank J Chaloupka, Patrick M O'Malley, Lloyd D Johnston (2006) Access to fast food and food prices: Relationship with fruit and vegetable consumption and overweight among adolescents. Advances in health economics and health services research 17 (2007): 23-48.
+
+[Growing your own food can improve you health](http://www.health.harvard.edu/blog/backyard-gardening-grow-your-own-food-improve-your-health-201206294984)
+
+[Farmers markets are increasingly viewed as tools to address challenges to food access in
+low-income urban environments](http://bostonfarmersmarkets.org/wp-content/uploads/2012/07/FarmersMarkect-Impact-on-FV_Website.pdf)
+
+[Urban core areas with limited food access are characterized by higher levels of racial
+segregation and greater income inequality.](http://www.ers.usda.gov/media/242675/ap036_1_.pdf)
+
