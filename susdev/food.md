@@ -20,3 +20,7 @@ low-income urban environments](http://bostonfarmersmarkets.org/wp-content/upload
 * [Urban core areas with limited food access are characterized by higher levels of racial
 segregation and greater income inequality.](http://www.ers.usda.gov/media/242675/ap036_1_.pdf)
 
+* [Supermarkets and large grocery stores have lower prices than smaller
+stores] (http://www.ers.usda.gov/media/242675/ap036_1_.pdf)
+
+
