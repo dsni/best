@@ -10,12 +10,12 @@
 
 **DNI** = Dudley Neighbors, Inc.
 
-**DNCS** = Dudley Neighborhood Charter School
+**DSNCS** = Dudley Street Neighborhood Charter School
 
-**RDI** = Resident Developement institute
+**RDI** = Resident Developement Institute
 
-**SDC** = sustainable economic developement Committee
+**SDC** = Sustainable Economic Developement Committee
 
-**DRFH** = Dudley real Food Hub (Dudley Grows)
+**DRFH** = Dudley Real Food Hub (Dudley Grows)
 
 logic models
