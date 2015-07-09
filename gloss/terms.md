@@ -29,7 +29,7 @@
 
 **DYC** = Dudley Youth Council
 
-**GOTCHA** = Get off the Corner Hanging Around, Youth JObs Collaborative 
+**GOTCHA** = Get off the Corner Hanging Around, Youth Jobs Collaborative 
 
 **DCT** = Dudley Chrildren Thrive 
 
