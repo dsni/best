@@ -23,4 +23,15 @@
 
 **Fair Chance for Family Success** = 
 
+**Dudley Triangle**
+
+**CLT** = Community Land Trust
+
+**DYC** = Dudley Youth Council
+
+**GOTCHA** = Get off the Corner Hanging Around, Youth JObs Collaborative 
+
+**DCT** = Dudley Chrildren Thrive 
+
+
 logic models
