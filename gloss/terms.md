@@ -5,6 +5,7 @@
 **YOD** = Youth Opportunities & Development 
 
 **SED** = Sustainable Economic Developement
+
 **HCC** = Healthy Community Champion
 
 **FCC** = Fairmount Cultural Corridor
