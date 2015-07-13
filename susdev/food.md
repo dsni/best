@@ -15,10 +15,17 @@ Lisa Powell, M Christopher Auld, Frank J Chaloupka, Patrick M O'Malley, Lloyd D 
 * [Farmers markets are increasingly viewed as tools to address challenges to food access in
 low-income urban environments](http://bostonfarmersmarkets.org/wp-content/uploads/2012/07/FarmersMarkect-Impact-on-FV_Website.pdf)
 
+Jennifer Obadia and Jennifer Porter (2012).Farmers Markets: Impact on fruit and vegetable consumption of Supplemental Nutrition Assistance Program clients
+
 * [Urban core areas with limited food access are characterized by higher levels of racial
 segregation and greater income inequality.](http://www.ers.usda.gov/media/242675/ap036_1_.pdf)
 
+Michele Ver Ploeg, Vince Breneman, Tracey Farrigan, Karen Hamrick, David Hopkins, Phil Kaufman, Biing-Hwan Lin, Mark Nord, Travis Smith, Ryan Williams, Kelly Kinnison, Carol Olander, Anita Singh, Elizabeth Tuckermanty, Rachel Krantz-Kent, Curtis Polen, Howard McGowan, Stella Kim (2009). Access to Affordable and Nutritious Food: Measuring and Understanding Food Deserts and Their Consequences, iii -iv. 
+
 * [Supermarkets and large grocery stores have lower prices than smaller
 stores] (http://www.ers.usda.gov/media/242675/ap036_1_.pdf)
+
+Michele Ver Ploeg, Vince Breneman, Tracey Farrigan, Karen Hamrick, David Hopkins, Phil Kaufman, Biing-Hwan Lin, Mark Nord, Travis Smith, Ryan Williams, Kelly Kinnison, Carol Olander, Anita Singh, Elizabeth Tuckermanty, Rachel Krantz-Kent, Curtis Polen, Howard McGowan, Stella Kim (2009). Access to Affordable and Nutritious Food: Measuring and Understanding Food Deserts and Their Consequences, iv. 
+
 
 
