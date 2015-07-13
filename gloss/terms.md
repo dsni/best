@@ -20,7 +20,7 @@
 
 **DRFH** = Dudley Real Food Hub (Dudley Grows)
 
-**Youth Voice Project** = 
+[**Youth Voice Project**](http://bostonopportunityyouth.org/youth-voice-project/) = The Youth Voice Project is composed of youth leaders who reach out to opportunity youth and advise the OYC.
 
 **Fair Chance for Family Success** = 
 
