@@ -50,6 +50,9 @@
 
 **CDC** = Community Development Corporation
 
+**LOVE** = Learning Our Value In Education Campaign
+
+
 
 
 logic models
