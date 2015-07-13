@@ -1,3 +1,5 @@
+**DSNI** = Dudley Street Neighborhood Initiative 
+
 **DVC** = Dudley Village Campus
 
 **BPI** = Boston Promise Initiative
@@ -38,6 +40,16 @@
 
 [**Thrive in Five**](http://thrivein5boston.org/) = Thrive in 5 is Boston’s citywide movement to ensure children from families of all races, ethnicities, incomes, abilities, and languages have the opportunities and support they need for success in school and beyond. 
 
+**BRA** = 
 
+**SLBF** =
+
+**ACT** = The Act, Connect, Thrive skills Framework
+
+[**First Teacher**](http://www.firstteacher.net/pages/mission) = Parents helping parents/guardians prepare their children for kindergarten.
+
+**CDC** = Community Development Corporation
+
+**
 
 logic models
