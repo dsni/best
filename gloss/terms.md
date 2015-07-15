@@ -52,7 +52,9 @@
 
 **LOVE** = Learning Our Value In Education Campaign
 
+**TFP** = The Food Project
 
+**ACE** = Alternatives for Community and Environment
 
 
 logic models
