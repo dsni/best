@@ -60,7 +60,7 @@ Students who have longer duration, low-intensity (fewer than 20 hours per week) 
 
  
 
-
+______
 Commonwealth Corporation. (2014). Understanding and addressing the youth employment crisis. Boston, MA: Commonwealth Corporation.
 
 Ingmire, J. (2014). Chicago summer jobs program for high school students dramatically reduces youth violence. UChicago News.
