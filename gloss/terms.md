@@ -56,5 +56,8 @@
 
 **ACE** = Alternatives for Community and Environment
 
+**REEP** = Roxbury Environmental Empowerment Project
+
+[**CHOICE Neighborhoods**](http://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/programs/ph/cn)  = The Choice Neighborhoods program supports locally driven strategies to address struggling neighborhoods with distressed public or HUD-assisted housing through a comprehensive approach to neighborhood transformation. 
 
 logic models
