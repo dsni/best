@@ -59,3 +59,5 @@
 **REEP** = Roxbury Environmental Empowerment Project
 
 [**CHOICE Neighborhoods**](http://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/programs/ph/cn)  = The Choice Neighborhoods program supports locally driven strategies to address struggling neighborhoods with distressed public or HUD-assisted housing through a comprehensive approach to neighborhood transformation. 
+
+Wealth is net assets -- savings minus debt. Savings includes savings, cash, and property. In this case, I did not include cars. Some people include cars, because they might have some value, but for low-income people, the cars they have have very little value and selling them would usually lead to job-loss, so they don't really have any liquidity. (Liquidity is ability to be converted to cash.)
